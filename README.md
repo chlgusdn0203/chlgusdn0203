@@ -7,6 +7,7 @@ AWS 클라우드 인프라를 공부하고 있습니다. 팀 프로젝트에서 
 
 ### [NSND](https://github.com/chlgusdn0203/NSND_Portfolio) · AI 졸음운전 감지 시스템
 **2026 스마트ICT프로젝트(졸업작품) 경진대회 장려상**
+[프로젝트 설명](https://github.com/chlgusdn0203/NSND_Portfolio) · [로그인·회원가입 및 운전 세션 구현 코드](https://github.com/david7643/NPNS/pull/2/files)
 
 FastAPI 로그인·회원가입 API, 운전 세션 처리, 앱의 GPS 기반 지도 기능을 담당했습니다.  
 
