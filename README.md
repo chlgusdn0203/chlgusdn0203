@@ -3,6 +3,8 @@
 AWS 클라우드 인프라를 공부하고 있습니다. 팀 프로젝트에서 프론트엔드를 개발했고,
 졸업작품에서는 FastAPI로 인증과 운전 세션 기능을 구현했습니다.
 
+**현재 학습:** AWS Certified Solutions Architect – Associate (SAA) 준비 중
+
 ## 대표 프로젝트
 
 ### [NSND](https://github.com/david7643/NPNS) · AI 졸음운전 감지 시스템
