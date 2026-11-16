@@ -12,8 +12,8 @@ FastAPI 로그인·회원가입 API, 운전 세션 처리, 안드로이드 앱�
 
 [로그인·회원가입 및 운전 세션 구현 (PR #2)](https://github.com/david7643/NPNS/pull/2/files) · [프로젝트 소개](https://github.com/chlgusdn0203/NSND_Portfolio)
 
-### EcoMate · 분리수거 교육 앱
+### [EcoMate](https://github.com/DongyangOne/2026expo_front) · 분리수거 교육 앱
 **2026 동양미래 EXPO 장려상** · 프론트엔드 개발
 
-### HereWeGo · 히위고
+### [HereWeGo](https://github.com/takjinwu/HereWeGo-Front) · 히위고
 **2025 공공데이터 활용 웹개발 경진대회 우수상** · 프론트엔드 개발
